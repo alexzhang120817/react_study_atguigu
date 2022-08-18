@@ -11,6 +11,6 @@ const root = ReactDOM.createRoot(document.getElementById('root'))
 root.render(
     // 去掉严格模式，否则会渲染两次
     // <React.StrictMode>
-    <App/>
+    <App />
     // </React.StrictMode>
 )
