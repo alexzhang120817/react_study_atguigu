@@ -9,7 +9,7 @@ import App from "./App"
 // ReactDOM.render(<App/>, document.getElementById('root') )
 const root = ReactDOM.createRoot(document.getElementById('root'))
 root.render(
-    // 去掉严格模式，否则会渲染两次
+    // 去掉严格模式，否则会渲  染两次
     // <React.StrictMode>
     <App />
     // </React.StrictMode>
